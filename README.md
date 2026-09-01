@@ -191,7 +191,7 @@ DecodeLabs-Internship/
 
 ```
 
-### 📄 Project Files
+###  Project Files
 
 * **`DecodeLabs_Project_2.xlsx`** — Excel workbook containing the analysis, PivotTables, statistics, and visualizations.
 * **`Decolabs_EDA_Report.pdf`** — English EDA report presenting the methodology, findings, and recommendations.
@@ -199,7 +199,7 @@ DecodeLabs-Internship/
 
 ---
 
-## 👤 About Me
+##  About Me
 
 **Floratin DOGBO**
 
@@ -207,12 +207,12 @@ Transport & Logistics graduate transitioning into **Data Analytics and Supply Ch
 
 My goal is to combine my background in **Transport & Logistics** with data analysis to help businesses make better operational and strategic decisions.
 
-📍 Lomé, Togo
-🎓 Transport & Logistics — École Polytechnique de Lomé (EPL)
+ Lomé, Togo
+ Transport & Logistics — École Polytechnique de Lomé (EPL)
 
 ---
 
-## 🚀 Project Context
+##  Project Context
 
 This project was completed as part of my **DecodeLabs Data Analytics Internship**.
 
